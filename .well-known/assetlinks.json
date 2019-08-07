@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.deere.mymaintenancedev",
+    "sha256_cert_fingerprints":
+    ["B0:FE:D9:7B:AD:06:0C:1C:EE:06:ED:5E:D4:35:64:98:BB:6C:2C:B9:CB:6A:DB:E1:F2:F1:6C:96:F4:44:65:E5"]
+  }
+}]
